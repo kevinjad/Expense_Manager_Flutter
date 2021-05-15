@@ -1,6 +1,6 @@
 # Expenses_Manager
 
-A new Flutter project.
+An expense manager app that has CRUD functionality.
 
 ## Getting Started
 
